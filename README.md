@@ -1,1 +1,1 @@
-# 4Sum
+Efficient and robust Python implementation of the 4Sum problem, designed to find all unique quadruplets in an array that sum to a given target. This solution leverages sorting and the two-pointer technique to ensure optimal performance and handle duplicates effectively.
